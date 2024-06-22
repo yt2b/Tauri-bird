@@ -6,7 +6,7 @@ use crate::engine::renderer::Renderer;
 use crate::player::Player;
 use cgmath::Vector2;
 
-const MAX_BLOCK_COUNTER: u32 = 160;
+const MAX_BLOCK_COUNTER: u32 = 100;
 const SPEED: f32 = 3.0;
 
 pub struct Bird {
