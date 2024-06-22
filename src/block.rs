@@ -2,7 +2,7 @@ use crate::engine::{rect::Rect, renderer::Renderer};
 use cgmath::Vector2;
 use rand::Rng;
 
-const GROUND_Y: f32 = 600.0;
+const GROUND_Y: f32 = 550.0;
 
 pub trait Block {
     fn update(&mut self, speed: f32);
