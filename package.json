@@ -1,6 +1,6 @@
 {
   "author": "yt2b",
-  "name": "Tauri-bird",
+  "name": "tauri-bird",
   "version": "0.1.0",
   "scripts": {
     "build": "rimraf dist pkg && webpack",
